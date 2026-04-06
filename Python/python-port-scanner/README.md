@@ -1,4 +1,4 @@
-# python-scan-script
+# Python-Scan-Script
 
 A fast, lightweight TCP/UDP port scanner for Windows built entirely in Python — no third-party dependencies required.
 
